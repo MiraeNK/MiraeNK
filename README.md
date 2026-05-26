@@ -1,10 +1,13 @@
-<div align="left">
+# Panzer Vor !
 
 
 ## Hafizh Husaini — MiraeNK
 
-*Senior Industrial Informatics · Year 3 → Final Year · Automation & Military Tech*
+*Final Year Industrial Informatics Student · Robotics Developer · Military Tech Enthusiast*
 
+work around bridging the gap between heavy machinery and smart technology. I specialize in industrial automation, ROS 2, computer vision, embeded system, design system, ERP and such . When I'm not busy engineering autonomous robots or refining detection algorithms for manufacturing lines, you'll probably find me deep-diving into German military history, enjoying a good cup of tea, or geeking out over all things *Girls und Panzer*! 
+<img width="498" height="281" alt="GirlsUndPanzerGupGIF" src="https://github.com/user-attachments/assets/ff7a9205-7f37-4b10-8df8-07f95233914d" />
+ 
 ![ROS2](https://img.shields.io/badge/ROS_2%20%2F%20Robotics-22314E?style=flat-square&logo=ros)
 ![Automation](https://img.shields.io/badge/Industrial_Automation-085041?style=flat-square)
 ![Military](https://img.shields.io/badge/Military_Tech-712B13?style=flat-square)
@@ -12,27 +15,18 @@
 ![Embedded](https://img.shields.io/badge/Embedded_Systems-633806?style=flat-square)
 ![ML](https://img.shields.io/badge/Machine_Learning-27500A?style=flat-square&logo=tensorflow&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 GitHub stats
 
-<div align="left">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiraeNK&theme=dark&hide_border=true)](https://github.com/MiraeNK)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiraeNK&theme=dark&hide_border=true&card_width=500)](https://github.com/MiraeNK)
 
 ---
 
 ## 🗣️ Top languages
 
-<div align="left">
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiraeNK&theme=dark)
-
-</div>
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiraeNK&theme=dracula)
+![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiraeNK&theme=dracula)
 
 ---
 
@@ -45,11 +39,11 @@
 | 🏷️ **ToolLabel** | Python · tkinter · YOLO dataset annotation | 🟢 Active |
 -->
 
-## 📬 Connect
+---
 
-<div align="left">
+## 📬 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-MiraeNK-181717?style=flat-square&logo=github)](https://github.com/MiraeNK)
 [![Email](https://img.shields.io/badge/Email-miraenk7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miraenk7@gmail.com)
 
-</div>
+[![Visitors](https://visitcount.itsvg.in/api?id=MiraeNK&icon=0&color=0)](https://visitcount.itsvg.in)
