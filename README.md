@@ -2,7 +2,7 @@
 
 ## Hafizh Husaini — MiraeNK
 
-*Final Year Industrial Informatics Student · Robotics Developer · Military Tech Enthusiast*
+*Final Year Industrial Informatics Student · Automation & Robotics Developer · ERP Systems · Military Tech Enthusiast*
 
 My work revolves around bridging the gap between heavy machinery and smart technology. I specialize in industrial automation, ROS 2, computer vision, embedded systems, design systems, ERP, and more. 
 
